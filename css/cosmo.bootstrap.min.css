@@ -112,6 +112,7 @@ body {
 	line-height: 40px;
 }
 
+.full-width-image .addthis_toolbox .addthis_bubble_style,
 .row .addthis_toolbox .addthis_bubble_style {
 	width: 62px !important;
 }
